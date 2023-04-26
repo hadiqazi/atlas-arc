@@ -1,0 +1,709 @@
+/*
+
+    The following CSS codes are created by the YellowPencil plugin.
+    https://yellowpencil.waspthemes.com/
+
+
+    T A B L E   O F   C O N T E N T S
+    ........................................................................
+
+    01. "Home" Page
+    02. "Cloud Migration" Page
+    03. "Contact Us" Page
+    04. "Cloud Advisory and Assessments" Page
+    05. "Application Modernization" Page
+    06. "Talent Solution" Page
+    07. "Cloud Cost Optimization" Page
+    08. "Hybrid and Multi cloud" Page
+    09. "Data and Analytics" Page
+    10. "Cloud Data Warehouse" Page
+    11. "Training" Page
+    12. "Infrastructure &#038; Security &#8211; Services" Page
+    13. "About Us" Page
+    14. "Contact Us" Page
+    15. "Cloud Services" Page
+
+*/
+
+
+
+/*-----------------------------------------------*/
+/*  "Home" Page                                  */
+/*-----------------------------------------------*/
+body.page-id-69 .elementor-element-222714f .abcc img{
+	color:#ffffff;
+}
+
+body.page-id-69 .elementor-element-994c17c .abcc svg{
+	color:#ffffff;
+}
+
+body.page-id-69 .elementor-element-222714f .abcc svg{
+	color:#ffffff;
+}
+
+body.page-id-69 .elementor-slides .swiper-slide .elementor-slide-heading{
+	margin-top:110px;
+}
+
+body.page-id-69 .elementor-element-30033aa7 .box-body .btn-wraper{
+	position:absolute;
+	top:0%;
+}
+
+body.page-id-69 .elementor-element-98cef27 .elementor-hidden-tablet .elementskit-infobox{
+	-webkit-transform:translatex(0px) translatey(0px);	-ms-transform:translatex(0px) translatey(0px);	transform:translatex(0px) translatey(0px);
+	display:-webkit-box;	display:-webkit-flex;	display:-ms-flexbox;	display:flex;
+	-webkit-box-orient:column;	-webkit-box-direction:column;	-ms-flex-direction:column;	flex-direction:column;
+	-webkit-box-pack:center;	-ms-flex-pack:center;	justify-content:center;
+}
+
+body.page-id-69 .elementor-element-98cef27 .elementor-hidden-tablet .btn-wraper{
+	top:54%;
+}
+
+body.page-id-69 .elementor .elementor-element-61a0014 .elementor-container .elementor-top-column .elementor-widget-wrap .elementor-element-d778cda .elementor-container .elementor-inner-column .elementor-widget-wrap .elementor-widget-image-gallery .elementor-widget-container .elementor-image-gallery .gallery-size-full .gallery-item{
+	width:20% !important;
+}
+
+body.page-id-69 .elementor .elementor-element-61a0014 .elementor-container .elementor-top-column .elementor-widget-wrap .elementor-element-d778cda .elementor-container .elementor-inner-column .elementor-widget-wrap .elementor-widget-image-gallery .elementor-widget-container .elementor-image-gallery .gallery-size-full .gallery-item:nth-child(3){
+
+	width:12% !important;
+}
+
+body.page-id-69 .elementor .elementor-element-61a0014 .elementor-container .elementor-top-column .elementor-widget-wrap .elementor-element-d778cda .elementor-container .elementor-inner-column .elementor-widget-wrap .elementor-widget-image-gallery .elementor-widget-container .elementor-image-gallery .gallery-size-full .gallery-item:nth-child(4){
+
+	width:24% !important;
+}
+
+body.page-id-69 .elementor .elementor-element-61a0014 .elementor-container .elementor-top-column .elementor-widget-wrap .elementor-element-d778cda .elementor-container .elementor-inner-column .elementor-widget-wrap .elementor-widget-image-gallery .elementor-widget-container .elementor-image-gallery .gallery-size-full .gallery-item:nth-child(5){
+
+	width:24% !important;
+}
+
+body.page-id-69 .elementor .elementor-element-d778cda .gallery-item:nth-child(5){
+
+	-webkit-transform:translatex(0px) translatey(0px);	-ms-transform:translatex(0px) translatey(0px);	transform:translatex(0px) translatey(0px);
+	padding-right:5px;
+}
+
+body.page-id-69 .elementor-element-98cef27 .elementor-hidden-tablet a{
+	text-align:left;
+}
+
+body.page-id-69 .elementor-element-98cef27 .box-body a{
+	text-align:left;
+}
+
+body.page-id-69 .elementor .elementor-element-98cef27 .elementor-inner-column:nth-child(3) .elementskit-btn{
+	top:28px;
+}
+
+body.page-id-69 .elementor .elementor-element-54e45ac .elementor-container .swiper-pagination{
+	display:none !important;
+}
+
+body.page-id-69 #hidden_header .elementor svg{
+	margin-top:3px;
+}
+
+body.page-id-69 #hidden_header .elementor-container .elementor-top-column .elementor-widget-wrap .elementor-widget-jet-mega-menu .elementor-widget-container .jet-mega-menu .jet-mega-menu-container .jet-mega-menu-list .jet-mega-menu-item .jet-mega-menu-mega-container .jet-mega-menu-mega-container__inner .elementor .elementor-element-06e7a9b .elementor-container .elementor-top-column .elementor-widget-wrap .elementor-widget-htmega-menu-verticle-menu .elementor-widget-container .menu-cloud-services-container .htmega-verticle-menu .menu .main-menu-item a{
+	padding-top:10px;
+	padding-bottom:10px;
+}
+
+body.page-id-69 #hidden_header .elementor-container .elementor-top-column .elementor-widget-wrap .elementor-widget-jet-mega-menu .elementor-widget-container .jet-mega-menu .jet-mega-menu-container .jet-mega-menu-list .jet-mega-menu-item .jet-mega-menu-mega-container .jet-mega-menu-mega-container__inner .elementor .elementor-element-06e7a9b .elementor-container .elementor-top-column .elementor-widget-wrap .elementor-widget-htmega-menu-verticle-menu .elementor-widget-container .menu-application-development-automation-container .htmega-verticle-menu .menu .main-menu-item a{
+	padding-top:10px;
+	padding-bottom:10px;
+}
+
+body.page-id-69 #hidden_header .elementor-container .elementor-top-column .elementor-widget-wrap .elementor-widget-jet-mega-menu .elementor-widget-container .jet-mega-menu .jet-mega-menu-container .jet-mega-menu-list .jet-mega-menu-item .jet-mega-menu-mega-container .jet-mega-menu-mega-container__inner .elementor .elementor-element-06e7a9b .elementor-container .elementor-top-column .elementor-widget-wrap .elementor-widget-htmega-menu-verticle-menu .elementor-widget-container .menu-talent-solutions-container .htmega-verticle-menu .menu .main-menu-item a{
+	padding-top:10px;
+	padding-bottom:10px;
+}
+
+body.page-id-69 #hidden_header .elementor-container .elementor-top-column .elementor-widget-wrap .elementor-widget-jet-mega-menu .elementor-widget-container .jet-mega-menu .jet-mega-menu-container .jet-mega-menu-list .jet-mega-menu-item .jet-mega-menu-mega-container .jet-mega-menu-mega-container__inner .elementor .elementor-element-06e7a9b .elementor-container .elementor-top-column .elementor-widget-wrap .elementor-widget-htmega-menu-verticle-menu .elementor-widget-container .menu-infrastructure-security-container .htmega-verticle-menu .menu .main-menu-item a{
+	padding-top:10px;
+	padding-bottom:10px;
+}
+
+body.page-id-69 .elementor-element-4b458e4 .elementor svg{
+	margin-top:3px;
+}
+
+@media (max-width:1199px){
+
+	body.page-id-69 .elementor-element-98cef27 .box-body a{
+	-webkit-transform:translatex(0px) translatey(0px);	-ms-transform:translatex(0px) translatey(0px);	transform:translatex(0px) translatey(0px);
+	padding-right:157px !important;
+	}
+
+}
+
+
+
+@media (max-width:1079px){
+
+	body.page-id-69 .elementor-element-9da354a .swiper-button-prev svg{
+	display:none !important;
+}
+
+body.page-id-69 .elementor-element-9da354a .swiper-button-next svg{
+	display:none !important;
+}
+
+body.page-id-69 .elementor-element-54e45ac .swiper-button-next svg{
+	display:none !important;
+}
+
+body.page-id-69 .elementor-element-54e45ac .swiper-button-prev svg{
+	display:none !important;
+}
+
+body.page-id-69 .elementor .elementor-element-54e45ac .elementor-container .swiper-pagination{
+	display:block !important;
+}
+
+body.page-id-69 .elementor-element-98cef27 .box-body a{
+	padding-right:109px !important;
+	}
+
+}
+
+
+
+@media (max-width:1023px){
+
+	body.page-id-69 .elementor .elementor-element-54e45ac .elementor-container .swiper-pagination{
+	display:block !important;
+	}
+
+}
+
+
+
+@media (max-width:976px){
+
+	body.page-id-69 .elementor-element-98cef27 .box-body a{
+	padding-right:70px !important;
+	}
+
+}
+
+
+
+@media (max-width:900px){
+
+	body.page-id-69 .elementor .elementor-element-98cef27 .elementor-inner-column:nth-child(3) .elementskit-btn{
+	padding-right:55px;
+	}
+
+}
+
+
+
+@media (max-width:800px){
+
+	body.page-id-69 .elementor-element-98cef27 .box-body a{
+	padding-right:27px !important;
+	}
+
+}
+
+
+
+@media (max-width:767px){
+
+	body.page-id-69 .elementor .elementor-element-98cef27 .elementor-inner-column:nth-child(3) .elementskit-btn{
+	padding-right:54px;
+	top:-27px;
+}
+
+body.page-id-69 .elementor-element-54e45ac .swiper-pagination{
+	top:760px;
+	}
+
+}
+
+
+
+@media (max-width:640px){
+
+	body.page-id-69 .elementor-element-9da354a .swiper-button-next{
+	display:none;
+}
+
+body.page-id-69 .elementor-element-9da354a .swiper-button-prev{
+	display:none;
+}
+
+body.page-id-69 .elementor-element-54e45ac .swiper-button-next{
+	display:none;
+}
+
+body.page-id-69 .elementor-element-54e45ac .swiper-button-prev{
+	display:none;
+}
+
+body.page-id-69 .elementor .elementor-element-98cef27 .elementor-inner-column:nth-child(3) .elementskit-btn{
+	top:-7px;
+	}
+
+}
+
+
+
+@media (max-width:544px){
+
+	body.page-id-69 .elementor-element-54e45ac .swiper-pagination{
+	top:780px;
+	}
+
+}
+
+
+
+@media (max-width:500px){
+
+	body.page-id-69 .elementor-element-54e45ac .swiper-pagination{
+	top:820px;
+	}
+
+}
+
+
+
+@media (max-width:479px){
+
+	body.page-id-69{
+	overflow:hidden !important;
+}
+
+body.page-id-69 .elementor-element-54e45ac .swiper-pagination{
+	top:820px;
+	}
+
+}
+
+
+
+@media (max-width:460px){
+
+	body.page-id-69 .elementor-element-54e45ac .swiper-pagination{
+	top:850px;
+	}
+
+}
+
+
+
+@media (max-width:414px){
+
+	body.page-id-69 .elementor-element-54e45ac .swiper-pagination{
+	top:80px !important;
+	}
+
+}
+
+
+
+@media (max-width:411px){
+
+	body.page-id-69 .elementor .elementor-element-98cef27 .elementor-inner-column:nth-child(3) .elementskit-btn{
+	top:-20px;
+}
+
+body.page-id-69 .elementor-element-54e45ac .swiper-pagination{
+	top:857px !important;
+	}
+
+}
+
+
+
+@media (max-width:320px){
+
+	body.page-id-69 .elementor .elementor-element-54e45ac .elementor-container .swiper-pagination{
+	top:1028px !important;
+	}
+
+}
+
+
+
+@media (min-width:768px){
+
+	body.page-id-69 .elementor-slides .swiper-slide .elementor-slide-description{
+	margin-bottom:74px !important;
+	}
+
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "Cloud Migration" Page                       */
+/*-----------------------------------------------*/
+body.page-id-891 .elementor-element-ab0f6e5 .eael-infobox .infobox-icon-wrap{
+	-webkit-transform:translatex(0px) translatey(0px);	-ms-transform:translatex(0px) translatey(0px);	transform:translatex(0px) translatey(0px);
+}
+
+body.page-id-891 .elementor .elementor-element-ab0f6e5 .elementor-top-column:nth-child(3) .infobox-icon-wrap{
+	-webkit-transform:translatex(0px) translatey(22px);	-ms-transform:translatex(0px) translatey(22px);	transform:translatex(0px) translatey(22px);
+}
+
+body.page-id-891 .elementor .elementor-element-ab0f6e5 .elementor-top-column:nth-child(4) .infobox-icon-wrap{
+	-webkit-transform:translatex(0px) translatey(-12px);	-ms-transform:translatex(0px) translatey(-12px);	transform:translatex(0px) translatey(-12px);
+}
+
+body.page-id-891 .elementor .elementor-element-5974b24 .elementor-top-column:nth-child(1) .infobox-icon-wrap{
+	-webkit-transform:translatex(0px) translatey(12px);	-ms-transform:translatex(0px) translatey(12px);	transform:translatex(0px) translatey(12px);
+}
+
+body.page-id-891 .elementor .elementor-element-5974b24 .elementor-top-column:nth-child(3) .infobox-icon-wrap{
+	-webkit-transform:translatex(0px) translatey(-12px);	-ms-transform:translatex(0px) translatey(-12px);	transform:translatex(0px) translatey(-12px);
+}
+
+body.page-id-891 .elementor .elementor-element-5974b24 .elementor-top-column:nth-child(4) .infobox-icon-wrap{
+	-webkit-transform:translatex(5px) translatey(10px);	-ms-transform:translatex(5px) translatey(10px);	transform:translatex(5px) translatey(10px);
+}
+
+body.page-id-891 .elementor-element-5974b24 .eael-infobox h4{
+	color:#2f4445;
+}
+
+body.page-id-891 .elementor .elementor-element-ab0f6e5 .elementor-top-column:nth-child(1) svg{
+	position:relative;
+	top:-5px;
+	-webkit-transform:translatex(0px) translatey(0px);	-ms-transform:translatex(0px) translatey(0px);	transform:translatex(0px) translatey(0px);
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "Contact Us" Page                            */
+/*-----------------------------------------------*/
+body.page-id-1132 .picker--focused .picker__holder .picker__frame{
+	background-color:#eaecec !important;
+}
+
+body.page-id-1132 .bookly-form .picker__frame *{
+	color:black!important;
+	font-family: poppins!important;
+	font-size: 16px!important;
+	font-weight: 500!important;
+}
+
+body.page-id-1132 .picker__day--disabled{
+	color:#808080!important;
+}
+
+body.page-id-1132 .bookly-form .picker--focused .picker__day--selected{
+	background-color:#2f4445!important;
+	color:white !important;
+	background-color:#2f4445!important;
+}
+
+body.page-id-1132 .bookly-form .picker__day--selected, body.page-id-1132 .bookly-form .picker__day--selected:hover, body.page-id-1132 .bookly-form .picker--focused .picker__day--selected, body.page-id-1132 .bookly-form .picker__day--infocus:hover, body.page-id-1132 .bookly-form .picker__day--outfocus:hover{
+	background-color:#2f4445!important;
+	color:white !important;
+}
+
+body.page-id-1132 .bookly-form .picker__day--today{
+	border:0px!important;
+	background-color:#00000000!important;
+}
+
+body.page-id-1132 .map_render div svg{
+	display:inline-block;
+	-webkit-transform:translatex(0px) translatey(0px) !important;	-ms-transform:translatex(0px) translatey(0px) !important;	transform:translatex(0px) translatey(0px) !important;
+}
+
+body.page-id-1132 .elementor{
+	-webkit-transform:translatex(0px) translatey(0px);	-ms-transform:translatex(0px) translatey(0px);	transform:translatex(0px) translatey(0px);
+}
+
+body.page-id-1132 .bookly-form div:nth-child(5) div:nth-child(2) > div:nth-child(1){
+
+	width:452px !important;
+}
+
+body.page-id-1132 .bookly-form div div div div div button > span{
+	font-family:'Poppins', sans-serif;
+}
+
+body.page-id-1132 .elementor-element-cb2b35e .elementor-container .elementor-top-column .elementor-widget-wrap .elementor-widget-bookly-widget-bookly-form .elementor-widget-container .bookly-form div div div div div button{
+	margin-top:3px !important;
+}
+
+body.page-id-1132 .elementor-widget-bookly-widget-bookly-form:nth-child(4) .elementor-widget-container .bookly-form > div:nth-child(1){
+
+	display:none!important;
+}
+
+body.page-id-1132 .elementor-widget-bookly-widget-bookly-form .elementor-widget-container .bookly-form > div:nth-child(1){
+
+	display:none;
+}
+
+body.page-id-1132 .elementor-element-cb2b35e .elementor-container .elementor-top-column .elementor-widget-wrap .elementor-widget-bookly-widget-bookly-form .elementor-widget-container .bookly-form > div > div > div > div > div > div > div{
+	border-bottom-style:none !important;
+}
+
+body.page-id-1132 .bookly-form div div div div div div div div{
+	font-style:normal;
+}
+
+@media (min-width:380px){
+
+	body.page-id-1132 .elementor-widget-bookly-widget-bookly-form .bookly-form div:nth-child(5){
+
+	width:60%;
+	min-height:375px;
+	}
+
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "Cloud Advisory and Assessments" Page        */
+/*-----------------------------------------------*/
+@media (max-width:479px){
+
+	body.page-id-468 .elementor .elementor-element-038ea53 .elementor-widget-heading:nth-child(3){
+
+	margin-left:-10px;
+	margin-top:10px;
+	}
+
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "Application Modernization" Page             */
+/*-----------------------------------------------*/
+body.page-id-1357 .elementor-element-ab0f6e5 .abcc h4{
+	margin-bottom:8px !important;
+}
+
+@media (max-width:411px){
+
+	body.page-id-1357 .elementor .elementor-element-038ea53 .elementor-widget-heading:nth-child(3){
+
+	padding-left:-10px;
+	margin-left:-10px;
+	margin-top:10px;
+	}
+
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "Talent Solution" Page                       */
+/*-----------------------------------------------*/
+body.page-id-562 .elementor-element-74f62f4 .abcc svg{
+	padding-top:-6px;
+	margin-top:-2px;
+}
+
+body.page-id-562 .elementor .elementor-element-74f62f4 .abcc:nth-child(4) svg{
+	margin-top:-5px;
+}
+
+body.page-id-562 .elementor .elementor-element-7867eb9 .abcc:nth-child(2) svg{
+	margin-bottom:0px;
+	margin-top:6px;
+	top:7px;
+}
+
+body.page-id-562 .elementor-element-7867eb9 .abcc svg{
+	position:relative;
+	top:3px;
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "Cloud Cost Optimization" Page               */
+/*-----------------------------------------------*/
+@media (max-width:411px){
+
+	body.page-id-2238 .elementor .elementor-element-038ea53 .elementor-widget-heading:nth-child(3){
+
+	padding-left:-10px;
+	margin-left:-10px;
+	margin-top:10px;
+	}
+
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "Hybrid and Multi cloud" Page                */
+/*-----------------------------------------------*/
+@media (max-width:411px){
+
+	body.page-id-2259 .elementor .elementor-element-038ea53 .elementor-widget-heading:nth-child(3){
+
+	padding-left:-10px;
+	margin-left:-10px;
+	margin-top:10px;
+	}
+
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "Data and Analytics" Page                    */
+/*-----------------------------------------------*/
+@media (max-width:411px){
+
+	body.page-id-2264 .elementor .elementor-element-038ea53 .elementor-widget-heading:nth-child(3){
+
+	padding-left:-10px;
+	margin-left:-10px;
+	margin-top:10px;
+	}
+
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "Cloud Data Warehouse" Page                  */
+/*-----------------------------------------------*/
+@media (max-width:411px){
+
+	body.page-id-2272 .elementor .elementor-element-038ea53 .elementor-widget-heading:nth-child(3){
+
+	padding-left:-10px;
+	margin-left:-10px;
+	margin-top:10px;
+	}
+
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "Training" Page                              */
+/*-----------------------------------------------*/
+@media (max-width:411px){
+
+	body.page-id-2294 .elementor .elementor-element-038ea53 .elementor-widget-heading:nth-child(3){
+
+	padding-left:-10px;
+	margin-left:-10px;
+	margin-top:10px;
+	}
+
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "Infrastructure &#038; Security &#8211; Services" Page*/
+/*-----------------------------------------------*/
+body.page-id-666 .elementor-element-27d8b2b .box-body .fas{
+	padding-left:8px;
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "About Us" Page                              */
+/*-----------------------------------------------*/
+body.page-id-386 .elementor-location-header .elementor svg{
+	top:0px;
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "Contact Us" Page                            */
+/*-----------------------------------------------*/
+body.page-id-2570 .elementor-widget-bookly-widget-bookly-form .bookly-form div:nth-child(5){
+
+	width:50%;
+}
+
+body.page-id-2570 .bookly-form .picker__holder{
+	width:100% !important;
+}
+
+body.page-id-2570 .elementor-widget-bookly-widget-bookly-form .elementor-widget-container .bookly-form > div:nth-child(1){
+
+	display:none;
+}
+
+body.page-id-2570 .picker--focused .picker__holder .picker__frame{
+	width:100%;
+}
+
+@media (max-width:640px){
+
+	body.page-id-2570 .elementor-widget-bookly-widget-bookly-form .elementor-widget-container .bookly-form > div{
+	width:100%;
+	}
+
+}
+
+
+
+@media (max-width:544px){
+
+	body.page-id-2570 .elementor-widget-hotspot .e-hotspot--circle .e-hotspot__tooltip{
+	-webkit-transform:translatex(0px) translatey(0px);	-ms-transform:translatex(0px) translatey(0px);	transform:translatex(0px) translatey(0px);
+}
+
+body.page-id-2570 .elementor-widget-hotspot .elementor img{
+	min-height:1px;
+	height:18px !important;
+	width:24px !important;
+}
+
+body.page-id-2570 .elementor .e-hotspot--circle:nth-child(3) .e-hotspot__tooltip{
+	left:0px;
+	}
+
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "Cloud Services" Page                        */
+/*-----------------------------------------------*/
+@media (max-width:600px){
+
+	body.page-id-446 .elementor-element-66c7ceb .elementor-widget-wrap{
+	height:301px !important;
+	margin-top:41px !important;
+	}
+
+}
+
+
+
+@media (max-width:460px){
+
+	body.page-id-446 .elementor{
+	overflow:hidden;
+	}
+
+}
+
+
+
+@media (max-width:411px){
+
+	body.page-id-446 .elementor-element-66c7ceb .elementor-widget-wrap{
+	height:261px !important;
+	margin-top:62px !important;
+	}
+
+}
